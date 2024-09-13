@@ -2,6 +2,13 @@
 
 Welcome to the Effective Communication in DevOps project! This React application aims to highlight the importance of clear and effective communication within the DevOps field. Through engaging content and interactive elements, this project emphasizes how communication can enhance collaboration, efficiency, and overall success in DevOps practices.
 
+## Live Demo
+
+The project is live! You can check it out here:
+
+[DevOps Communication Live Demo](https://shireesharedddy.github.io/DevOps_Communication/)
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
