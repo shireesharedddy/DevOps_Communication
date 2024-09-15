@@ -1,4 +1,4 @@
-# Effective Communication in DevOps
+# Effective Communication in DevOps - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 Welcome to the Effective Communication in DevOps project! This React application aims to highlight the importance of clear and effective communication within the DevOps field. Through engaging content and interactive elements, this project emphasizes how communication can enhance collaboration, efficiency, and overall success in DevOps practices.
 
