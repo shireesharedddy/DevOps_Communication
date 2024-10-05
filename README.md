@@ -6,7 +6,8 @@ Welcome to the Effective Communication in DevOps project! This React application
 
 The project is live! You can check it out here:
 
-[DevOps Communication Live Demo](https://shireesharedddy.github.io/DevOps_Communication/)
+![DevOps Coomunication](https://github.com/user-attachments/assets/5c16aa2c-61a6-435d-b916-4c3c35e2621d)
+
 
 
 ## Table of Contents
