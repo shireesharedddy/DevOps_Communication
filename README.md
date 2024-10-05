@@ -24,7 +24,8 @@ The project is live! You can check it out here:
 
 ## Project Overview
 
-![communication vscode page](https://github.com/user-attachments/assets/3c07ee36-2437-4350-83cc-c44e185c54e5)
+![communication vscode page](https://github.com/user-attachments/assets/81ec9961-f124-403c-a6c0-2a3c2aa18b60)
+
 
 
 
